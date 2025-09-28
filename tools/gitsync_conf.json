@@ -24,7 +24,7 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "/FE:/1CBases/OTUS/Demo1_Storage",
+      "path": "E:/1CBases/OTUS/Demo1_Storage",
       "dir": "./src/cf",
       "temp-dir": "",
       "v8version": "8.3.27.1688",
@@ -35,7 +35,7 @@
     {
         "name": "YAXUNIT",
         "extention": "YAXUNIT",
-        "path": "/FE:/1CBases/OTUS/Demo1YaxStorage",
+        "path": "E:/1CBases/OTUS/Demo1YaxStorage",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
         "v8version": "8.3.27.1688",
