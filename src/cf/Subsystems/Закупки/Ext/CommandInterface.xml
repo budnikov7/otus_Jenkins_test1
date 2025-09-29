@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
 	<CommandsVisibility>
 		<Command name="Document.ПриходТовара.StandardCommand.OpenList">
 			<Visibility>
@@ -64,12 +64,6 @@
 		<Command name="Catalog.РасчетныеСчетаКонтрагентов.StandardCommand.Create">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="Role.Продавец">false</xr:Value>
-			</Visibility>
-		</Command>
-		<Command name="0:e11e7a6b-22c6-482e-b211-9c60949de0e0">
-			<Visibility>
-				<xr:Common>true</xr:Common>
 				<xr:Value name="Role.Продавец">false</xr:Value>
 			</Visibility>
 		</Command>
