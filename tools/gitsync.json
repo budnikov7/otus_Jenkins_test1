@@ -3,7 +3,7 @@
   "agent": "gitsync",
   "v8Version": "8.3.27.1688",
   "defaultInfobase": {
-    "connectionString": "/FE:/1CBases/OTUS/Demo1_clear",
+    "connectionString": "E:/1CBases/OTUS/Demo1_clear",
     "auth": ""
   },
   "stages": {

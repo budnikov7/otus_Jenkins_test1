@@ -11,6 +11,6 @@
   },
   "vanessa": {
     "--vanessasettings": "./tools/VAParams.json",
-    "--pathvanessa": "C:/tools/vanessa-automation-single.epf"
+    "--pathvanessa": "E:/1CBases/vanessa-automation.1.2.042.19/vanessa-automation.epf"
   }
 }
