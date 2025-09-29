@@ -43,7 +43,7 @@
     "initMethod": "fromStorage",
     "runMigration": true,
     "additionalInitializationSteps": [],
-    "templateDBPath": "e:/1C/build/Demo83_otus/1Cv8.1CD",
+    "templateDBPath": "E:/1CBases/OTUS/Demo1/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {
